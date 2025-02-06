@@ -1,4 +1,4 @@
-**RWKV-7: The Efficient and Powerful RNN for the Modern Era**
+# **RWKV-7: The Efficient and Powerful RNN for the Modern Era**
 
 RWKV (pronounced "RwaKuv" - rʌkuv) is a new type of neural network that combines the best aspects of RNNs (Recurrent Neural Networks) and Transformers. It's designed to be efficient, fast, and powerful, making it suitable for everything from large language models (LLMs) to applications on your phone or even embedded devices. The name comes from the four core parameters of the model: R, W, K, and V.
 
@@ -123,7 +123,3 @@ RWKV has evolved through several versions. While RWKV-7 is the latest, here's a 
 *   **RWKV-4:** Introduced further optimizations and improvements.
 *   **RWKV-5:** Introduced a multi-head structure and matrix-valued representations.
 *   **RWKV-6:** Introduced dynamic mixing and dynamic decay.
-
-The original README contains details, diagrams, and code snippets for these older versions. This information has been consolidated here to avoid overwhelming the reader with historical details.
-
-By including these images and their explanations, the description becomes much more concrete and easier to grasp. The visual aids help to demystify the architecture and training process, making the advantages of RWKV-7 more apparent. The combination of high-level explanations, simplified descriptions, and visual support provides a comprehensive and accessible overview.
